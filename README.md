@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 
 Here are some of the tools and technologies I work with:
 
-- **Languages**:  Python, JavaScript, Java, C++, C#
-- **Frameworks**: React, Django, Flask
+- **Languages**:  Python, JavaScript, Java, C++, C#, Dart
+- **Frameworks**: React, Django, Flask, Flutter
 - **Tools**: Git, Docker, VS Code
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Cloud**: AWS, Google Cloud, Azure
